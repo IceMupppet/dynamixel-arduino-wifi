@@ -1,0 +1,41 @@
+
+# macOS system files
+.DS_Store
+.DS_Store?
+.AppleDouble
+.LSOverride
+
+# Icon files
+Icon?
+*.icns
+
+# macOS metadata
+._*
+.Spotlight-V100
+.Trashes
+.fseventsd
+
+# VSCode
+.vscode/
+
+# Arduino build output
+*.hex
+*.elf
+*.bin
+
+# Temporary files
+*.log
+*.tmp
+*.swp
+
+# Backup files
+*~
+*.bak
+*.orig
+
+# Node modules
+node_modules/
+
+# Python cache
+__pycache__/
+*.pyc
